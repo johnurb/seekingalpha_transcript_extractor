@@ -5,3 +5,4 @@ __pycache__
 /fixed_output_final/
 /raw_texts/
 scraped_urls.txt
+/fixed_texts/
